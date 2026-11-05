@@ -1,1 +1,1 @@
-# Package bot
+# Package solver
