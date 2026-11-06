@@ -3,6 +3,7 @@
 # ==============================================================
 
 [build]
+  # Static files are committed in public/; no build command is required.
   # مجلد الملفات الثابتة المعروضة على الويب
   publish = "public"
   # مجلد دوال Netlify Serverless Functions
